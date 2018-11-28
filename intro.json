@@ -3,12 +3,9 @@
     { 
       "intro": "Hello GardenMate! 4"
     },
-    { 
-      "intro": "2"
-    },
     {
-           "element": "document.querySelector('i.fas.fa-save')",
-           "intro": "Save Button."
+           "element": "document.querySelector('div.logo')",
+           "intro": "This is our logo."
      }
   ]
 }
