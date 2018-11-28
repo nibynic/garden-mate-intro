@@ -6,12 +6,24 @@
       "intro": "Hello Stranger, nice to have you here. Have a look around."
     },
     {
-           "element": "div.logo",
-           "intro": "This is our logo"
+           "element": "div.down",
+           "intro": "Use arrows, to pan accross your design"
+     },
+    {
+           "element": "div.scale",
+           "intro": "Use (+) and (-) to zoom in and out"
      },
     {
            "element": "button.action.save",
            "intro": "This is a save button."
+     },
+    {
+           "element": "button.action.new",
+           "intro": "This creates a new design."
+     },
+    {
+           "element": "button.open",
+           "intro": "Once you create a design, you can preview it in 3D here."
      },
     {
            "element": "button.plants",
