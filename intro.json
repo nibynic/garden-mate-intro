@@ -10,6 +10,10 @@
     {
            "element": "i.fas.fa-save",
            "intro": "This is a save button."
+     },
+    {
+           "element": "button.plants",
+           "intro": "This is a plant library."
      }
   ]
 }
