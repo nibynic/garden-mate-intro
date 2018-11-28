@@ -8,7 +8,7 @@
            "intro": "This is our logo"
      },
     {
-           "element": "i.fas.fa-save",
+           "element": "button.action.save",
            "intro": "This is a save button."
      },
     {
