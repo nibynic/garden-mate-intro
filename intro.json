@@ -1,7 +1,6 @@
 {
   "overlayOpacity" : "0.5",
   "disableInteraction" : "true",
-  "highlightClass" : "\"style\" = \"background-color: rgba(255,255,255,.3)\" ",
   "steps" : [
     { 
       "intro": "Hello Stranger, nice to have you here. Have a look around."
