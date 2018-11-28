@@ -15,5 +15,11 @@
            "element": "button.plants",
            "intro": "This is a plant library."
      }
+  ],
+  "hints": [
+              {
+                "element": "button.action.save",
+                "hint": "This is a tooltip."
+              }
   ]
 }
