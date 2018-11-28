@@ -1,4 +1,5 @@
 {
+  "overlayOpacity" : "0.1",
   "steps" : [
     { 
       "intro": "Hello Stranger, nice to have you here. Have a look around."
