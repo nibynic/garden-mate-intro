@@ -1,21 +1,4 @@
 {
-  "steps" : [
-    { 
-      "intro": "Hello Stranger, nice to have you here. Have a look around."
-    },
-    {
-           "element": "div.logo",
-           "intro": "This is our logo"
-     },
-    {
-           "element": "button.action.save",
-           "intro": "This is a save button."
-     },
-    {
-           "element": "button.plants",
-           "intro": "This is a plant library."
-     }
-  ],
   "hints": [
               {
                 "element": "button.action.save",
