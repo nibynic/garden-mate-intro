@@ -1,11 +1,19 @@
 {
   "steps" : [
     { 
-      "intro": "Hello GardenMate! 4"
+      "intro": "Hello GardenMate! 1"
     },
     {
            "element": "#logo",
-           "intro": "This is our logo."
+           "intro": "This is our logo.2"
+     },
+    {
+           "element": "logo",
+           "intro": "This is our logo.3"
+     },
+    {
+           "element": "div.logo",
+           "intro": "This is our logo.4"
      }
   ]
 }
