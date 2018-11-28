@@ -5,6 +5,11 @@
     },
     { 
       "intro": "2"
-    }
+    },
+    ,
+    {
+           "element": "document.querySelector('i.fas.fa-save')",
+           "intro": "Save Button."
+     }
   ]
 }
