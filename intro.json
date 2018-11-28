@@ -4,7 +4,7 @@
       "intro": "Hello GardenMate! 4"
     },
     {
-           "element": "document.querySelector('#logo')",
+           "element": "'#logo'",
            "intro": "This is our logo."
      }
   ]
