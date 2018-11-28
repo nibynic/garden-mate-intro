@@ -1,19 +1,15 @@
 {
   "steps" : [
     { 
-      "intro": "Hello GardenMate! 1"
+      "intro": "Hello Stranger, nice to have you here. Have a look around."
     },
     {
-           "element": "#logo",
-           "intro": "This is our logo.2"
-     },
-    {
-           "element": "logo",
-           "intro": "This is our logo.3"
-     },
-    {
            "element": "div.logo",
-           "intro": "This is our logo.4"
+           "intro": "This is our logo"
+     },
+    {
+           "element": "i.fas.fa-save",
+           "intro": "This is a save button."
      }
   ]
 }
