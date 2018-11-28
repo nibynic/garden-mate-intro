@@ -4,7 +4,7 @@
       "intro": "Hello GardenMate! :)))"
     },
     {
-           "element": document.querySelector('#action save fa-icon-button'),
+           "element": "document.querySelector('#action save fa-icon-button')",
            "intro": "Save Button."
      }
   ]
