@@ -40,6 +40,10 @@
      {
            "element": "button.open",
            "intro": "Once you create a design, you can preview it in 3D here."
+     },
+     {
+           "element": "div.camera",
+           "intro": "Move Bob the Gardener, to see your design from different sides"
      }
   ]
 }
