@@ -3,7 +3,7 @@
   "disableInteraction" : "true",
   "steps" : [
     { 
-      "intro": "Hello Stranger, nice to have you here. Have a look around."
+      "intro": "Hi. GardenMateApp is a garden design application that we are working on. Have a look around and test it for yourself. Let us know what you think, so that we can make it better."
     },
     {
            "element": "div.up",
@@ -15,7 +15,7 @@
      },
     {
            "element": "button.action.save",
-           "intro": "This is a save button."
+           "intro": "This is a save button. After you seve your design, please make sure you save the unique address (URL) of your project, so that you can work on it in the future."
      },
     {
            "element": "button.action.new",
