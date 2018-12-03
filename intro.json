@@ -3,7 +3,7 @@
   "disableInteraction" : "true",
   "steps" : [
     { 
-      "intro": "Hi there,<BR><B>GardenMateApp</B> is a garden design application that we are working on. Have a look around and test it for yourself. Let us know what you think, so that we can make it better."
+      "intro": "Hi there,<BR><BR><B>GardenMateApp</B> is a garden design application that we are working on. Have a look around and test it for yourself. Let us know what you think, so that we can make it better.<BR><BR>And yes, we use cookies for Google Analytics. If you proceed, you agree to use cookies."
     },
     {
            "element": "div.up",
