@@ -1,52 +1,52 @@
 {
-  "overlayOpacity" : "0.5",
-  "disableInteraction" : "true",
-  "steps" : [
+  overlayOpacity : 0.5,
+  disableInteraction : true,
+  steps : [
     { 
-      "intro": "Cześć,<BR><BR><B>Zaprojektuj-Ogrod</B> to internetowa aplikacja do projektowania ogrodów. Zobacz jak działa nasza aplikacja<BR>"
+      intro: 'Cześć,<BR><BR><B>Zaprojektuj-Ogrod</B> to internetowa aplikacja do projektowania ogrodów. Zobacz jak działa nasza aplikacja<BR>'
     },
     {
-           "element": "div.up",
-           "intro": "Użyj strzałek, żeby przesunąć okno i zobaczyć inną część swojego projektu"
+           element: 'div.up',
+           intro: 'Użyj strzałek, żeby przesunąć okno i zobaczyć inną część swojego projektu'
      },
     {
-           "element": "div.scale",
-           "intro": "Przybliż (+) lub oddal (-) swój projekt"
+           element: 'div.scale',
+           intro: 'Przybliż (+) lub oddal (-) swój projekt'
      },
     {
-           "element": "button.action.save.fa-icon-button",
-           "intro": "Zapisz swój projekt ogrodu na naszym serwerze.<BR><BR>Pamiętaj, żeby robić to regularnie!"
+           element: 'button.action.save.fa-icon-button',
+           intro: 'Zapisz swój projekt ogrodu na naszym serwerze.<BR><BR>Pamiętaj, żeby robić to regularnie!'
      },
       {
-           "element": "button.action.close.fa-icon-button",
-           "intro": "Zamknij edytor ogrodu i wróc do strony Moje Projekty.<BR><BR>Pamiętaj, żeby zapisać zmiany w projekcie!"
+           element: 'button.action.close.fa-icon-button',
+           intro: 'Zamknij edytor ogrodu i wróc do strony Moje Projekty.<BR><BR>Pamiętaj, żeby zapisać zmiany w projekcie!'
      },
     {
-           "element": "button.plants",
-           "intro": "Katalog roślin - możesz wybrać rośliny i umieścić je na swoim projekcie"
+           element: 'button.plants',
+           intro: 'Katalog roślin - możesz wybrać rośliny i umieścić je na swoim projekcie'
      },
      {
-           "element": "button.buildings",
-           "intro": "Katalog małej architektury - meble i akcesoria ogrodowe do Twojego projektu"
+           element: 'button.buildings',
+           intro: 'Katalog małej architektury - meble i akcesoria ogrodowe do Twojego projektu'
      },
      {
-           "element": "button.ground",
-           "intro": "Katalog nawierzchnie - zaznacz obszar na Twoim projekcie i nanieś odpowiednią nawierzchnie "
+           element: 'button.ground',
+           intro: 'Katalog nawierzchnie - zaznacz obszar na Twoim projekcie i nanieś odpowiednią nawierzchnie'
      },
      {
-           "element": "section.browser.plants",
-           "intro": "Kategorie roślin - drzewa, krzewy, trawy, byliny"
+           element: 'section.browser.plants',
+           intro: 'Kategorie roślin - drzewa, krzewy, trawy, byliny'
      },
      {
-           "element": "button.open",
-           "intro": "Podgląd 3D"
+           element: 'button.open',
+           intro: 'Podgląd 3D'
      },
      {
-           "element": "div.camera",
-           "intro": "Przesuń ogrodnika i zobacz swój projekt z jego perspektywy"
+           element: 'div.camera',
+           intro: 'Przesuń ogrodnika i zobacz swój projekt z jego perspektywy'
      },
     { 
-      "intro": "Szczegółową pomoc do programu znajdziesz na naszysz stronach z pomocą.<BR><BR><a title='Pomoc do Aplikacji' href='https://www.zaprojektuj-ogrod.pl/pomoc-program-zaprojektuj-ogrod/'>Pomoc do Aplikacji</a>"
+      intro: 'Szczegółową pomoc do programu znajdziesz na naszysz stronach z pomocą.<BR><BR><a  href="https://www.zaprojektuj-ogrod.pl/pomoc-program-zaprojektuj-ogrod/">Pomoc do Aplikacji</a>'
     },
   ]
 }
