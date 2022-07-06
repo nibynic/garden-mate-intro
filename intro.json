@@ -14,8 +14,12 @@
            "intro": "Przybliż (+) lub oddal (-) swój projekt"
      },
     {
-           "element": "button.action.save",
-           "intro": "Zapisz swój projekt ogrodu na naszym serwerze"
+           "element": "button.action.save.fa-icon-button",
+           "intro": "Zapisz swój projekt ogrodu na naszym serwerze.<BR><BR>Pamiętaj, żeby robić to regularnie!"
+     },
+      {
+           "element": "button.action.close.fa-icon-button",
+           "intro": "Zamknij edytor ogrodu i wróc do strony Moje Projekty.<BR><BR>Pamiętaj, żeby zapisać zmiany w projekcie!"
      },
     {
            "element": "button.plants",
