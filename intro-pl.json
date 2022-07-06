@@ -1,0 +1,45 @@
+{
+  "overlayOpacity" : "0.5",
+  "disableInteraction" : "true",
+  "steps" : [
+    { 
+      "intro": "Cześć,<BR><BR><B>Zaprojektuj-Ogrod</B> to internetowa aplikacja do projektowania ogrodów. Zobacz jak działa nasza aplikacja<BR>"
+    },
+    {
+           "element": "div.up",
+           "intro": "Użyj strzałek, żeby przesunąć okno i zobaczyć inną część swojego projektu"
+     },
+    {
+           "element": "div.scale",
+           "intro": "Przybliż (+) lub oddal (-) swój projekt"
+     },
+    {
+           "element": "button.action.save",
+           "intro": "Zapisz swój projekt ogrodu na naszym serwerze"
+     },
+    {
+           "element": "button.plants",
+           "intro": "Katalog roślin - możesz wybrać rośliny i umieścić je na swoim projekcie"
+     },
+     {
+           "element": "button.buildings",
+           "intro": "Katalog małej architektury - meble i akcesoria ogrodowe do Twojego projektu"
+     },
+     {
+           "element": "button.ground",
+           "intro": "Katalog nawierzchnie - zaznacz obszar na Twoim projekcie i nanieś odpowiednią nawierzchnie "
+     },
+     {
+           "element": "section.browser.plants",
+           "intro": "Kategorie roślin - drzewa, krzewy, trawy, byliny"
+     },
+     {
+           "element": "button.open",
+           "intro": "Podgląd 3D"
+     },
+     {
+           "element": "div.camera",
+           "intro": "Przesuń ogrodnika i zobacz swój projekt z jego perspektywy"
+     }
+  ]
+}
